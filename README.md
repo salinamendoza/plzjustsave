@@ -12,7 +12,7 @@ Here's what it includes:
 * <b> Modern Web Technologies: </b> The application is built using React, TypeScript, and Tailwind CSS for a responsive and modern user interface, and uses Lucide React for icons.
 
 How to use:
-1. Setup bookmarklet
+1. Setup bookmarklet (drag and drop into bookmarks bar once)
 2. Click to save any page
 3. View, search, tag, and add notes to your private, locally stored history.
 4. Delete tabs as you go
