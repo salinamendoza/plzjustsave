@@ -10,3 +10,10 @@ Here's what it includes:
 * <b> Notes and Tags: </b> For each saved page, you can add custom notes and assign multiple tags to help categorize and find information later.
 * <b> Data Management: </b> You have options to export your saved history as a CSV file and import history from a JSON file. You can also delete individual saved pages or clear your entire history.
 * <b> Modern Web Technologies: </b> The application is built using React, TypeScript, and Tailwind CSS for a responsive and modern user interface, and uses Lucide React for icons.
+
+How to use:
+1. Setup bookmarklet
+2. Click to save any page
+3. View, search, tag, and add notes to your private, locally stored history.
+4. Delete tabs as you go
+5. Clear browser history & cache (localstorage isn't default selection when clearing cache on most browsers)
