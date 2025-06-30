@@ -17,3 +17,4 @@ How to use:
 3. View, search, tag, and add notes to your private, locally stored history.
 4. Delete tabs as you go
 5. Clear browser history & cache (localstorage isn't default selection when clearing cache on most browsers)
+6. Repeat ♻️ 
